@@ -1,0 +1,11 @@
+# Compilados e saídas geradas
+*.class
+out/
+resultado.txt
+resultados.csv
+
+# IDE / sistema
+.idea/
+.vscode/
+*.iml
+.DS_Store
