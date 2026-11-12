@@ -3,9 +3,9 @@
  * Projeto e Análise de Algoritmos II - Universidade Presbiteriana Mackenzie
  *
  * Integrantes do grupo:
- *   - Arthur Candido Palma 1 - RA: 10743580
- *   - Kaue Cordeiro Abreu 2 - RA: 10741435
- *   - Miguel Bastos Dias Barbosa 3 - RA: 10736603
+ *   - Arthur Candido Palma - RA: 10743580
+ *   - Kaue Cordeiro Abreu - RA: 10741435
+ *   - Miguel Bastos Dias Barbosa - RA: 10736603
  */
 
 import java.io.FileDescriptor;
